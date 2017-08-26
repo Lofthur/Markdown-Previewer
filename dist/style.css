@@ -1,0 +1,20 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr; }
+
+.input-field {
+  min-height: 70vh;
+  width: 550px;
+  font-size: 12px;
+  outline: none;
+  border: 1px solid #a1a1a1; }
+
+.output-field {
+  font-family: 'Lato', sans-serif;
+  font-size: 12px; }
+
+code {
+  background: #f0f0f0;
+  color: crimson; }
